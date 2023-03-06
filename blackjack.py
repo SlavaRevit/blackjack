@@ -93,3 +93,5 @@ game()
 
 # new changes == 
 # making this changes is really great to work with git
+
+# ok the last try to finish it 
